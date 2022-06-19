@@ -1,0 +1,33 @@
+@font-face{
+    src :url(fonts/Satoshi-Variable.ttf);
+    font-family: satoshi;
+}
+@font-face{
+    src :url(fonts/Highfield-thin.ttf);
+    font-family: highfield;
+}
+body{
+    padding-left: 350px;
+    margin: 0
+}
+.pages{
+    width: 43px;
+    height: 22px;
+    font-family: 'satoshi';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    border-spacing: 43px;
+}
+
+
+
+
+
+
+
+
+
+

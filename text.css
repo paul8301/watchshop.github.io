@@ -1,0 +1,322 @@
+.summer-wrapped{
+    position: absolute;
+    width: 406px;
+    height: 220px;
+    left: 427px;
+    top: 188px;
+    font-family: 'highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.handmade{
+    position: absolute;
+    left: 248px;
+    top: 541px;
+    width: 163px;
+    height: 37px;
+    font-family: 'highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.para-1{
+    left: 248px;
+    top: 595px;
+    position: absolute;
+    width: 247px;
+    height: 66px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.6);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.into-watches{
+    position: absolute;
+    width: 401px;
+    height: 220px;
+    left: 710px;
+    top: 640px;
+    font-family: 'highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    text-align: right;
+    color: #FFFFFF;
+}
+.gallery{
+    position: absolute;
+    width: 68px;
+    height: 22px;
+    left: 1186px;
+    top: 575px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+}
+.the-wheel{
+    position: absolute;
+    width: 481px;
+    height: 110px;
+    left: 414px;
+    top: 1234px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.of-the-year{
+    position: absolute;
+    width: 556px;
+    height: 110px;
+    left: 537px;
+    top: 1329px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.bezels{
+    left: 838px;
+    top: 1588px;
+    position:absolute;
+    width: 99px;
+    height: 37px;
+    font-family: 'highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.para-2{
+    left: 838px;;
+    top: 1640px;;
+    position: absolute;
+    width: 224px;
+    height: 90px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.5);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.read-more{
+    position: absolute;
+    width: 91px;
+    height: 22px;
+    left: 1144px;
+    top: 1932px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+}
+.special-watches{
+    position: absolute;
+    width: 762px;
+    height: 110px;
+    left: 314px;
+    top: 2291px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+
+.for-special{
+    position: absolute;
+    width: 528px;
+    height: 110px;
+    left: 212px;
+    top: 2389px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.experience{
+    position: absolute;
+    width: 478px;
+    height: 110px;
+    left: 522px;
+    top: 2483px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    color: #FFFFFF;
+}
+.para-3{
+    position: absolute;
+    width: 224px;
+    height: 119px;
+    left: 523px;
+    top: 2876px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.popular{
+    position: absolute;
+    width: 384px;
+    height: 110px;
+    left: 496px;
+    top: 3573px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.goods{
+    position: absolute;
+    width: 328px;
+    height: 110px;
+    left: 580px;
+    top: 3666px;
+    font-family: 'Highfield';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.PierreLannier1{
+    position: absolute;
+    left: 218.5px;
+    top: 4396px;
+    width: 122px;
+    height: 27px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.PierreLannier2{
+    position: absolute;
+    left: 659px;
+    top: 4396px;
+    width: 122px;
+    height: 27px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.MichelMerbelin{
+    position: absolute;
+    left: 1090.5px;
+    top: 4396px;
+    width: 122px;
+    height: 27px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.p1{
+    position: absolute;
+    left: 243px;
+    top: 4425px;
+    width: 73px;
+    height: 27px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.p2{
+    position: absolute;
+    left: 683px;
+    top: 4425px;
+    width: 73px;
+    height: 27px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.p3{
+    position: absolute;
+    left: 1126px;
+    top: 4425px;
+    width: 73px;
+    height: 27px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

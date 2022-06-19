@@ -1,0 +1,43 @@
+.first-six{
+    position: relative;
+    width: 1440px;
+    height: 6193px;
+    background: #000000;
+}
+.top-bar{
+    height: 115px;
+    width: 100%;
+}
+.top-bar-one{
+    float: left;
+    height: 115px;
+    width: 238px; 
+}
+.top-bar-two{
+    float: left;
+    width: 870px;
+    height: 115px;
+}
+.top-bar-three{
+    float: left;
+    width: 222px;
+    height: 115px;
+    padding-left: 10px;
+}
+.content-one{
+    height: 870px;
+    width: 1441px;
+}
+.content-two{
+    height: 1240px;
+    width: 1441px;
+
+}
+.content-three{
+    height: 1240px;
+    width: 1441px;
+}
+.content-four{
+    height: 1240px;
+    width: 1441px;
+}

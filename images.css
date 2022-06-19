@@ -1,0 +1,223 @@
+.logo-one{
+    height: 58px;
+    width: 127px;
+    margin-top: 31px;
+    margin-left: 111px;
+}
+.logo-two{
+    height: 27px;
+    width: 27px;
+}
+.line{
+    position: absolute;
+    width: 1219px;
+    height: 0px;
+    left: 111px;
+    top: 115px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.watch-fire-img{
+    position: absolute;
+    width: 407.64px;
+    height: 589.5px;
+    left: 591.25px;
+    top: 260px;
+    background: #000000;
+    border-radius: 267px;
+    transform: rotate(12.27deg);
+}
+.rectangle1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 473.71px;
+    height: 575.3px;
+    left: 113px;
+    top: 334.38px;
+}
+.rectangle2{
+    position: absolute;
+    width: 507.64px;
+    height: 589.5px;
+    left: 511.25px;
+    top: 320px;
+    border-radius: 267px;
+}
+.star1{
+    position: absolute;
+    width: 59px;
+    height: 91px;
+    left: 259px;
+    top: 424px;
+}
+.ellipse1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 1152px;
+    top: 529px;
+}
+.ellipse2{
+    position: absolute;
+    width: 320px;
+    height: 285px;
+    left: 751px;
+    top: 648px;
+    background: #DD8127;
+    filter: blur(140px);
+}
+.star2{
+    position: absolute;
+    width: 59px;
+    height: 91px;
+    left: 178px;
+    top: 1447px;
+}
+.star3{
+    position: absolute;
+    width: 59px;
+    height: 91px;
+    left: 1138px;
+    top: 1161px;
+}
+.rectangle3{
+    position: absolute;
+    width: 347px;
+    height: 449px;
+    left: 420px;
+    top: 1615px;
+    background: url(ae659e31937225.56676dc5d2f5d.jpg), rgba(255, 255, 255, 0.2);
+}
+.rectangle4{
+    position: absolute;
+    width: 290px;
+    height: 470px;
+    left: 82px;
+    top: 1698px;
+    background: url(05-Rado-Intro.jpg), rgba(255, 255, 255, 0.2);
+    border-radius: 168px;
+}
+.ellipse3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 1122px;
+    top: 1886px;
+}
+.rectangle5{
+    position: absolute;
+    width: 410px;
+    height: 615px;
+    left: 0px;
+    top: 2675px;
+    background: url(final-3.jpg), rgba(255, 255, 255, 0.2);
+}
+.ellipse4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 535px;
+    top: 3071px;
+}
+.rectangle6{
+    position: absolute;
+    width: 309px;
+    height: 517px;
+    left: 897px;
+    top: 2868px;
+    background: url(Rolex-Oyster-Perpetual-41mm-Blue-Wristshot_768x.progressive.png), rgba(255, 255, 255, 0.2);
+    border-radius: 168px;
+}
+.rectangle7{
+    box-sizing: border-box;
+    position: absolute;
+    width: 448.02px;
+    height: 706.78px;
+    left: 913.15px;
+    top: 2772px;
+    border-radius: 168px;
+}
+.gallery-2{
+    position: absolute;
+    width: 68px;
+    height: 22px;
+    left: 569px;
+    top: 3117px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+.star4{
+    position: absolute;
+    width: 59px;
+    height: 91px;
+    left: 1216px;
+    top: 2910px;
+}
+.star5{
+    position: absolute;
+    width: 59px;
+    height: 91px;
+    left: 1011px;
+    top: 3571px;
+}
+.vector1{
+    position: absolute;
+    width: 132px;
+    height: 35px;
+    left: 110.5px;
+    top: 3856px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.vector2{
+    position: absolute;
+    width: 132px;
+    height: 35px;
+    left: 1197.5px;
+    top: 3856px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.rectangle8{
+    position: absolute;
+    left: 106px;
+    top: 3912px;
+    width: 347px;
+    height: 480px;
+    background: url(e9ea4f144379003.628bad2bafb02.jpg), rgba(255, 255, 255, 0.2);
+    border-radius: 168px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.rectangle81{
+    position: absolute;
+    left: 546.5px;
+    top: 3912px;
+    width: 347px;
+    height: 480px;
+    background: url(bc2d25144379003.628bad2baf1c0.jpg), rgba(255, 255, 255, 0.2);
+    border-radius: 168px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.rectangle83{
+    position: absolute;
+    left: 987px;
+    top: 3912px;
+    width: 347px;
+    height: 480px;
+    background: url(2e2a9b144379003.628bad2bb0091.jpg), rgba(255, 255, 255, 0.2);
+    border-radius: 168px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
